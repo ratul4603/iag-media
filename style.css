@@ -431,6 +431,10 @@ footer h6{
 }
 
 @media screen and (max-width:540px){
+    .navbar{
+        padding:2.7rem 0 4.3rem 0;
+        border-bottom: .2rem solid gray;
+    }
     footer h1{
         font-size:3.5rem;
     }
